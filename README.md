@@ -2,6 +2,8 @@
 
 > Bot Discord polyvalent — **Made by Wumpus**
 > discord.js v14 · Node.js 20+
+> discord : https://discord.gg/n2VRgSu9eb 
+> Telegram : https://t.me/wumpusproject
 
 ---
 
