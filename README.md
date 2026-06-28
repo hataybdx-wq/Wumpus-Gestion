@@ -1,4 +1,4 @@
-# Electron Gestion
+# Wumpus Gestion
 
 > Bot Discord polyvalent — **Made by Wumpus** 
 
@@ -14,7 +14,7 @@
 
 ```bash
 # 1. Cloner / dézipper le projet
-cd Electron-Gestion
+cd Wumpus-Gestion
 
 # 2. Installer les dépendances
 npm install
